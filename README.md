@@ -19,9 +19,9 @@ Features
 
 Clone the Repository
 
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/rkgupta7463/DB_Integration_ExpressJS.git
 
-  `cd your-repo`
+  `cd DB_Integration_ExpressJS`
 
 # Install Dependencies
 
