@@ -88,4 +88,5 @@ table {
 #dialog {
     width: 450px;
     border: none;
+    height: fit-content;
 }
