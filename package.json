@@ -1,0 +1,18 @@
+{
+    "name": "db_integration",
+    "version": "1.0.0",
+    "description": "This is just practice session of db integration using postgresql!",
+    "main": "server.js",
+    "scripts": {
+        "start": "node run server.js",
+        "server": "nodemon server.js"
+    },
+    "author": "rishu",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.19.2",
+        "nodemon": "^3.1.4",
+        "pg": "^8.12.0",
+        "sequelize": "^6.37.3"
+    }
+}
